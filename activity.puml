@@ -1,3 +1,4 @@
+<style>
 activityDiagram {
   BackgroundColor lightblue
   BorderColor #33668E
@@ -28,8 +29,10 @@ activityDiagram {
     BackgroundColor #ccf
   }
 }
+
 document {
    'BackgroundColor transparent
    'BackgroundColor lightgray
    BackgroundColor white
 }
+</style>
