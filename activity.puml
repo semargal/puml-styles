@@ -1,4 +1,5 @@
 @startuml
+<style>
 activityDiagram {
   BackgroundColor lightblue
   BorderColor #33668E
@@ -35,4 +36,5 @@ document {
    'BackgroundColor lightgray
    BackgroundColor white
 }
+</style>
 @enduml
